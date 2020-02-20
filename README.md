@@ -5,6 +5,10 @@ The GIMP kaleidoscope filter is found in menu Filters>Distorts>Kaleidoscope...
 
 Do not confuse this with G'Mic's kaleidoscopes.
 
+All the images the name of which starts with k-ewD are 1920x1080. Otherwise they are 1366x768.
+
+TIP: Flip vertically any of these before applying the kaleidoscope to get different results.
+
 ---
 
 Some useful links:
